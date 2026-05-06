@@ -1,3 +1,33 @@
+
+# Developer Survey Analysis
+
+## Tools Used
+
+* Python (pandas)
+* Jupyter Notebook
+
+## What was done
+
+* Calculated the total number of respondents and those who answered all questions
+* Analyzed work experience (WorkExp), remote work, and programming learning paths
+* Determined the share of respondents working with Python (37.55%)
+* For Python developers, analyzed average and median compensation by country
+* Identified top 5 countries by median compensation: Oman, Andorra, USA, Israel, Switzerland
+* Examined education levels of the 5 highest-paid respondents
+
+## Conclusions
+
+* Most respondents have around 10 years of experience, with a slightly higher average due to very experienced professionals
+* Approximately 36% work remotely, and nearly 11,000 learned programming through online courses
+* Python is a popular language used by more than one-third of respondents
+* The highest-paid respondents mostly hold Associate or Master’s degrees, though some have Bachelor’s degrees
+
+Overall, the developer market is diverse in terms of experience, education, and work format
+
+
+
+---------------------------
+
 # Аналіз результатів опитування розробників
 
 ## Використано
